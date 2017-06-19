@@ -1,9 +1,9 @@
 # Catchy title goes here!
 
-[![Build Status](https://travis-ci.org/atrestis/MasterMind.svg?branch=master)](https://travis-ci.org/atrestis/MasterMind)
+[![Build Status](https://travis-ci.org/atrestis/CppTemplate.svg?branch=master)](https://travis-ci.org/atrestis/CppTemplate)
 [![Discord Contribution](https://img.shields.io/badge/Discord-Contribution-blue.svg?branch=master)](https://discord.gg/36ZDpPY)
 
-### If you have set the readthedocs site:
+### If you have set the readthedocs site (borrowed by atrestis/Mastemind repo):
 [![Documentation Status](https://readthedocs.org/projects/atrestismastermind/badge/?version=latest)](http://atrestismastermind.readthedocs.io/en/latest/?badge=latest)
 
 ## Introduction to this repo
