@@ -1,0 +1,13 @@
+language: cpp
+sudo: required
+dist: trusty
+compiler:
+  - g++
+
+before_script:
+  - chmod 755 build.sh
+
+script: ./build.sh
+
+notifications: 
+  email: false
